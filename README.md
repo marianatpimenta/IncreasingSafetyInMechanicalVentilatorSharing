@@ -4,4 +4,4 @@ IncreasinSafetyInMechanicalVentilatorSharing.pdf is a description of the project
 
 MaterialsAndUtilizationGuidelines.pdf contains a list of materials, a circuit diagram and final utilization instructions
 
-The code can be seen in ......ino
+The code can be seen in SafetyProjectCode.ino
